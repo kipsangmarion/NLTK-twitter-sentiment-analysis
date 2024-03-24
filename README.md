@@ -1,17 +1,17 @@
-**Twitter Sentiment Analysis using NLTK and scikit-learn**
+# **Twitter Sentiment Analysis using NLTK and scikit-learn**
 
-**Introduction:**
+## **Introduction:**
 
 This Jupyter Notebook provides a step-by-step guide to performing sentiment analysis on Twitter data using Natural Language Toolkit (NLTK) and scikit-learn in Python. Sentiment analysis aims to determine the sentiment expressed in text data, which can be useful for understanding public opinion, customer feedback, and more.
 
-**Dependencies:**
+## **Dependencies:**
 
 - Python 3.x
 - Jupyter Notebook
 - NLTK
 - scikit-learn
 
-**Installation:**
+## **Installation:**
 
 1. Make sure you have Python 3.x installed. You can download it from the [official Python website](https://www.python.org/downloads/).
 
@@ -21,7 +21,7 @@ This Jupyter Notebook provides a step-by-step guide to performing sentiment anal
 
 4. Install scikit-learn by running `pip install scikit-learn`.
 
-**Usage:**
+## **Usage:**
 
 1. Clone or download the repository containing the Jupyter Notebook.
 
@@ -33,7 +33,7 @@ This Jupyter Notebook provides a step-by-step guide to performing sentiment anal
 
 5. The notebook guides you through the process of accessing Twitter data, preprocessing the text, extracting features, training machine learning models, and evaluating their performance.
 
-**References:**
+## **References:**
 
 - NLTK documentation: https://www.nltk.org/
 - scikit-learn documentation: https://scikit-learn.org/stable/documentation.html
